@@ -5,6 +5,11 @@ public class CreatedInDevelopBranch
         String nothing = "Empty String";
     }
 
+    public String conflictFunctionInDevelop()
+    {
+        return "Hi, I'm Develop";
+    }
+
     @Override
     public String toString()
     {
