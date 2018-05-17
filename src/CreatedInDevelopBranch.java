@@ -5,9 +5,9 @@ public class CreatedInDevelopBranch
         String nothing = "Empty String";
     }
 
-    public String conflictFunctionInDevelop()
+    public String conflictFunctionInMaster()
     {
-        return "Hi, I'm Develop";
+        return "Hi, I'm Master";
     }
 
     @Override
